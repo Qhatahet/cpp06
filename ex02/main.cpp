@@ -6,7 +6,16 @@
 /*   By: qhatahet <qhatahet@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/10/20 23:10:43 by qhatahet          #+#    #+#             */
-/*   Updated: 2025/10/20 23:10:44 by qhatahet         ###   ########.fr       */
+/*   Updated: 2025/11/25 20:41:37 by qhatahet         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
+#include "A.hpp"
+#include "B.hpp"
+#include "C.hpp"
+#include "Base.hpp"
+
+int main()
+{
+	return (0);
+}

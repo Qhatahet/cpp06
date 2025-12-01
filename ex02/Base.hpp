@@ -6,7 +6,19 @@
 /*   By: qhatahet <qhatahet@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/11/08 21:21:18 by qhatahet          #+#    #+#             */
-/*   Updated: 2025/11/08 21:21:19 by qhatahet         ###   ########.fr       */
+/*   Updated: 2025/11/25 20:40:31 by qhatahet         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
+#ifndef BASE_HPP
+# define BASE_HPP
+
+#include <iostream>
+
+class Base
+{
+	public:
+		virtual ~Base();
+};
+
+#endif
